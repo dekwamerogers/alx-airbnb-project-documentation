@@ -139,5 +139,5 @@ The backend for the Airbnb Clone must enable key features that align with the fu
     Include automated API testing to ensure endpoints function as expected
     
 ## Use case diagram
-![./stayeasy-use-case-diagram](./stayeasy-use-case-diagram)
+![./stayeasy-use-case-diagram](./stayeasy-use-case-diagram.jpg)
     
