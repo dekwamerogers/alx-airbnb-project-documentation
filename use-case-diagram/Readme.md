@@ -1,7 +1,5 @@
 # Airbnb Clone – Use Case Documentation
 
----
-
 ## Overview
 
 This project models the backend functionalities of an Airbnb-style booking platform. The system allows Guests, Hosts, and Admins to interact with core features such as property listings, bookings, payments, and user management.
