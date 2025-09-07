@@ -6,8 +6,6 @@ This project models the backend functionalities of an Airbnb-style booking platf
 
 The Use Case Diagram illustrates the main interactions between system users and the backend, ensuring a clear understanding of user roles and functionalities.
 
----
-
 ## Actors
 
 - **Guest**
@@ -21,8 +19,6 @@ Property owner who lists, manages, and responds to booking requests.
 - **Admin**
 
 System administrator responsible for overseeing user accounts and platform activity.
-
----
 
 ## Core Use Cases
 
@@ -58,13 +54,9 @@ System administrator responsible for overseeing user accounts and platform activ
 
 - Serve as the foundation for backend database design, APIs, and integrations (payments, notifications, etc.).
 
----
-
 ## Use Case Diagram
 
 ![./stayeasy-use-case-diagram.jpg](./stayeasy-use-case-diagram.jpg)
-
----
 
 ## Next Steps
 
