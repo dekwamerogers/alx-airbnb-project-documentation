@@ -12,15 +12,15 @@ The Use Case Diagram illustrates the main interactions between system users and 
 
 ## Actors
 
--**Guest**
+- **Guest**
 
 End-user searching for and booking properties.
 
--**Host**
+- **Host**
 
 Property owner who lists, manages, and responds to booking requests.
 
--**Admin**
+- **Admin**
 
 System administrator responsible for overseeing user accounts and platform activity.
 
