@@ -115,10 +115,10 @@ Use a relational database such as PostgreSQL or MySQL.
 
 - Use RESTful APIs to expose backend functionalities to the frontend.
 - Include proper HTTP methods and status codes for:
-    - GET (retrieve data)
-    - POST (create data)
-    - PUT/PATCH (update data)
-    - DELETE (remove data)
+  - GET (retrieve data)
+  - POST (create data)
+  - PUT/PATCH (update data)
+  - DELETE (remove data)
 - Use GraphQL for complex data fetching scenarios (optional but recommended).
 
 ### 3. Authentication and Authorization
